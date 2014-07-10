@@ -43,8 +43,9 @@ public class Class1 {
 package Example1;
 
 public class Class2 extends Class1{
-	private int point;
 
+	private int point;
+	
 	public Class2(String studentName,int studentNumber,int point) {
 		super(studentName,studentNumber);
 		this.point=point;
@@ -70,7 +71,9 @@ public class Class2 extends Class1{
 }
 ==================
 package Example1;
+
 import java.util.*;
+
 public class Inheritance {		
 	public static void main(String[] args) {
 		Class1 s1= new Class1("Sultan",2);

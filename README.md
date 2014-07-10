@@ -1,6 +1,5 @@
 Exp1_OOP_With_JAVA
 ==================
-package Example1;
 
 public class Class1 {
 	private String studentName;
@@ -39,9 +38,7 @@ public class Class1 {
 	}
 
 }
-==================
-package Example1;
-
+//Class2
 public class Class2 extends Class1{
 
 	private int point;
@@ -69,9 +66,8 @@ public class Class2 extends Class1{
 	}
 
 }
-==================
-package Example1;
 
+//Inheritance
 import java.util.*;
 
 public class Inheritance {		

@@ -38,7 +38,7 @@ public class Class1 {
 	}
 
 }
-//Class2
+==================
 public class Class2 extends Class1{
 
 	private int point;
@@ -67,7 +67,8 @@ public class Class2 extends Class1{
 
 }
 
-//Inheritance
+==================
+
 import java.util.*;
 
 public class Inheritance {		
